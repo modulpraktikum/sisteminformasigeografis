@@ -1,0 +1,201 @@
+\chapter{Menulis dan Membaca Shapefile dengan PySHP}
+\section{Soal 1}
+\begin{verbatim}
+import shapefile
+w=shapefile.Writer()
+w.shapeType
+w.field("kolom1","C")
+w.field("kolom2","C")
+w.record("ngek","satu")
+w.record("ngok","dua")
+w.point(1,1)
+w.point(2,2)
+w.save("soal1")
+\end{verbatim}
+
+\par Hasil dari script diatas adalah: 
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.7]{figures/soal1.PNG}
+    \label{soal1}
+\end{figure}
+
+\section{Soal 2}
+\begin{verbatim}
+import shapefile
+w=shapefile.Writer(shapeType=1)
+w.shapeType
+w.field("kolom1","C")
+w.field("kolom2","C")
+w.record("ngek","satu")
+w.record("ngok","dua")
+w.point(1,1)
+w.point(2,2)
+w.save("soal2")
+\end{verbatim}
+
+\par Hasil dari script python diatas adalah:
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.7]{figures/soal2.PNG}
+    \label{soal2}
+\end{figure}
+
+\section{Soal 3}
+\begin{verbatim}
+import shapefile
+w=shapefile.Writer(shapeType=1)
+w.shapeType
+w.shapeType=3
+w.shapeType
+w.field("kolom1","C")
+w.field("kolom2","C")
+w.record("ngek","satu")
+w.record("ngok","dua")
+w.point(1,1)
+w.point(2,2)
+w.save("soal3")
+\end{verbatim}
+
+\par Hasil dari script python soal 3 diatas adalah: 
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.5]{figures/soal3.PNG}
+    \label{soal3}
+\end{figure}
+
+\section{Soal 4}
+\begin{verbatim}
+import shapefile
+w=shapefile.Writer(shapefile.POINTM)
+w.shapeType
+w.field("kolom1","C")
+w.field("kolom2","C")
+w.record("ngek","satu")
+w.record("ngok","dua")
+w.point(1,1)
+w.point(2,2)
+w.save("soal4")
+\end{verbatim}
+
+\par Hasil dari script python soal 4 diatas adalah: 
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.5]{figures/soal4.PNG}
+    \label{soal4}
+\end{figure}
+
+\section{Soal 5}
+\begin{verbatim}
+import shapefile
+w=shapefile.Writer()
+w.shapeType
+w.field("kolom1","C")
+w.field("kolom2","C")
+w.record("ngek","satu")
+w.line(parts=[[[1,5],[5,5],[5,1],[3,3],[1,1]]])
+w.save("soal5")
+\end{verbatim}
+
+\par Hasil dari script python soal 5 diatas adalah: 
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.7]{figures/soal5.PNG}
+    \label{soal5}
+\end{figure}
+
+\section{Soal 6}
+\begin{verbatim}
+import shapefile
+w=shapefile.Writer()
+w.shapeType
+w.field("kolom1","C")
+w.field("kolom2","C")
+w.record("ngek","satu")
+w.poly(parts=[[[1,3],[5,3]]], shapeType=shapefile.POLYLINE)
+w.save("soal6")
+\end{verbatim}
+
+\par Hasil dari script python soal 6 diatas adalah: 
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.7]{figures/soal6.PNG}
+    \label{soal6}
+\end{figure}
+
+\section{Soal 7}
+\begin{verbatim}
+import shapefile
+w=shapefile.Writer()
+w.shapeType
+w.field("kolom1","C")
+w.field("kolom2","C")
+w.record("ngek","satu")
+w.poly(parts=[[[1,3],[5,3],[1,2],[5,2]]],shapeType=shapefile.POLYLIN
+E)
+w.save("soal7")
+\end{verbatim}
+
+\par Hasil dari script python soal 7 diatas adalah: 
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.7]{figures/soal7.PNG}
+    \label{soal7}
+\end{figure}
+
+\section{Soal 8}
+\begin{verbatim}
+import shapefile
+w=shapefile.Writer()
+w.shapeType
+w.field("kolom1","C")
+w.field("kolom2","C")
+w.record("ngek","satu")
+w.poly(parts=[[[1,3],[5,3],[1,2],[5,2],
+[1,3]]],shapeType=shapefile.POLYLINE)
+w.save("soal8")
+\end{verbatim}
+
+\par Hasil dari script python soal 8 diatas adalah: 
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.7]{figures/soal8.PNG}
+    \label{soal8}
+\end{figure}
+
+\section{Soal 9}
+\begin{verbatim}
+import shapefile
+w=shapefile.Writer()
+w.shapeType
+w.field("kolom1","C")
+w.field("kolom2","C")
+w.record("ngek","satu")
+w.record("crot","dua")
+w.poly(parts=[[[1,3],[5,3], [5,2],[1,2],
+[1,3]]],shapeType=shapefile.POLYLINE)
+w.poly(parts=[[[1,6],[5,6], [5,9],[1,9],
+[1,6]]],shapeType=shapefile.POLYLINE)
+w.save("soal9")
+\end{verbatim}
+
+\par Hasil dari script python soal 9 diatas adalah: 
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.7]{figures/soal9.PNG}
+    \label{soal9}
+\end{figure}
+
+\section{Soal 10}
+\par Hasil dari script python soal 10 diatas adalah: 
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.7]{figures/soal10.PNG}
+    \label{soal10}
+\end{figure}
+
+
+
+
+
+ 
