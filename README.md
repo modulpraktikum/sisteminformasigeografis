@@ -1,2 +1,2 @@
-# sisteminformasigeografis
-modul praktikum
+# kecerdasanbuatan
+Modul Praktikum Kecerdasan Buatan
