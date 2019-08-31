@@ -1,0 +1,60 @@
+\chapter{WMS}
+\section{mywms2.map}
+\par
+WMS Kepanjangan dari Web Map Services merupakan salah standar web service OGC(Open Geospasial Consorsium ). Dia akan mengembalikan atau memberi balikan berupa data raster/gambar sama halnya dengan WCS.
+
+\subsection{Menampilkan Peta Poltekpos Dengan WMS}
+\begin{enumerate}
+    \item Buat file mywms4.map dan save di
+\begin{verbatim}
+    C:\ms4w\Apache\cgi-bin
+\end{verbatim}
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[scale=0.5]{figures/wms1.PNG}
+\label{wms 1}
+\end{figure}
+    \item Kemudian buka browser dan masukkan link berikut:
+http://localhost:82/cgi-bin/mapserv.exe?map=mywms4.map\&SERVICE=WMS\&REQUEST=GetMap\&VERSION=1.1.1\&LAYERS=Denah\&SRS=EPSG:4326\&BBOX=94.5011475,-11.007385,141.01947,6.076721\&FORMAT=PNG\&WIDTH=800\&HEIGHT=600
+\begin{figure}[!htbp]
+\centering
+\includegraphics[scale=0.5]{figures/wms2.jpg}
+\label{wms 2}
+\end{figure}
+    \item Kemudian buka QGIS kemudian mengklik Layer Add Layer Add WMS/WMTS Layer
+\begin{figure}[!htbp]
+\centering
+\includegraphics[scale=0.5]{figures/wms3.jpg}
+\label{wms 3}
+\end{figure}
+    \item Pilih Layer dan pilih button “New”
+\begin{figure}[!htbp]
+\centering
+\includegraphics[scale=0.5]{figures/wms4.png}
+\label{wms 4}
+\end{figure}
+    \item Untuk membuat wms yang baru isikan Name dengan “wms aja” dan URL dengan link yang sudah dibuka di browser tadi http://localhost:82/cgi-bin/mapserv.exe?map=mywms4.map\&SERVICE=WMS\&REQUEST=GetMap\&VERSION=1.1.1\&LAYERS=Denah\&SRS=EPSG:4326\&BBOX=94.5011475,-11.007385,141.01947,6.076721\&FORMAT=PNG\&WIDTH=800\&HEIGHT=600
+    \item Kemudian pilih OK
+\begin{figure}[!htbp]
+\centering
+\includegraphics[scale=0.5]{figures/wms5.jpg}
+\label{wms 5}
+\end{figure}
+    \item Klik “Connect” dan pilih pada ID 1. Lalu klik button “Add”.
+\begin{figure}[!htbp]
+\centering
+\includegraphics[scale=0.5]{figures/wms6.jpg}
+\label{wms 6}
+\end{figure}
+    \item Maka hasilnya akan seperti di gambar \ref{wms 7}
+\begin{figure}[!htbp]
+\centering
+\includegraphics[scale=0.5]{figures/wms7.jpg}
+\label{wms 7}
+\end{figure}
+
+
+\end{enumerate}
+
+
