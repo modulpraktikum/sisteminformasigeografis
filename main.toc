@@ -1,0 +1,26 @@
+\contentsline {chapter}{\numberline {1}Menulis dan Membaca Shapefile dengan PySHP}{1}% 
+\contentsline {section}{\numberline {1.1}Soal 1}{1}% 
+\contentsline {section}{\numberline {1.2}Soal 2}{2}% 
+\contentsline {section}{\numberline {1.3}Soal 3}{2}% 
+\contentsline {section}{\numberline {1.4}Soal 4}{3}% 
+\contentsline {section}{\numberline {1.5}Soal 5}{4}% 
+\contentsline {section}{\numberline {1.6}Soal 6}{4}% 
+\contentsline {section}{\numberline {1.7}Soal 7}{5}% 
+\contentsline {section}{\numberline {1.8}Soal 8}{5}% 
+\contentsline {section}{\numberline {1.9}Soal 9}{6}% 
+\contentsline {section}{\numberline {1.10}Soal 10}{6}% 
+\contentsline {chapter}{\numberline {2}Mapserver}{8}% 
+\contentsline {section}{\numberline {2.1}Instalasi Mapserver}{8}% 
+\contentsline {subsection}{\numberline {2.1.1}Langkah-langkah instalasi Mapserver}{8}% 
+\contentsline {chapter}{\numberline {3}Mapproxy}{11}% 
+\contentsline {section}{\numberline {3.1}Konfigurasi dan Running Mapproxy}{11}% 
+\contentsline {subsection}{\numberline {3.1.1}Install Mapproxy}{11}% 
+\contentsline {chapter}{\numberline {4}WMS}{17}% 
+\contentsline {section}{\numberline {4.1}mywms2.map}{17}% 
+\contentsline {subsection}{\numberline {4.1.1}Menampilkan Peta Poltekpos Dengan WMS}{17}% 
+\contentsline {chapter}{\numberline {5}Mapserver}{21}% 
+\contentsline {section}{\numberline {5.1}Instalasi Mapserver}{21}% 
+\contentsline {subsection}{\numberline {5.1.1}Langkah-langkah instalasi Mapserver}{21}% 
+\contentsline {chapter}{\numberline {A}Form Penilaian Jurnal}{24}% 
+\contentsline {chapter}{\numberline {B}FAQ}{27}% 
+\contentsline {chapter}{Bibliography}{29}% 
