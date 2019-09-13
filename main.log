@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.15)  13 SEP 2019 11:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.9.13)  13 SEP 2019 12:33
 entering extended mode
 **./main.tex
 (main.tex
 LaTeX2e <2018-12-01>
 (ociamthesis.cls
 Document Class: ociamthesis 2010/11/22 v2.2 OCIAM thesis class
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\report.cls"
+("C:\Users\EMY\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
 Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
+("C:\Users\EMY\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
 File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
@@ -23,37 +23,42 @@ File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+("C:\Users\EMY\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.st
+y"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+("C:\Users\EMY\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+("C:\Users\EMY\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.st
+y"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+ ("C:\Users\EMY\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+("C:\Users\EMY\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphic
+s.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+("C:\Users\EMY\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex.
+def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+("C:\Users\EMY\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+("C:\Users\EMY\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty
+"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+("C:\Users\EMY\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.st
+y"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks15
 \symAMSa=\mathgroup4
@@ -61,7 +66,8 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.sty"
+("C:\Users\EMY\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.st
+y"
 \lst@mode=\count89
 \lst@gtempboxa=\box27
 \lst@token=\toks16
@@ -75,31 +81,34 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 \lst@lineno=\count94
 \lst@maxwidth=\dimen108
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
-File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+("C:\Users\EMY\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.sty
+"
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
 \c@lstnumber=\count95
 \lst@skipnumbers=\count96
 \lst@framebox=\box28
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.cfg"
-File: listings.cfg 2018/09/02 1.7 listings configuration
+("C:\Users\EMY\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.cf
+g"
+File: listings.cfg 2019/02/27 1.8b listings configuration
 ))
-Package: listings 2018/09/02 1.7 (Carsten Heinz)
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\color.sty"
+("C:\Users\EMY\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+("C:\Users\EMY\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.c
+fg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
-File: lstlang1.sty 2018/09/02 1.7 listings language file
-) (main.aux
-(section/dedication.aux) (section/acknowlegements.aux) (section/abstract.aux)
-(section/chapter1.aux) (section/chapter2.aux) (section/chapter3.aux)
-(section/chapter4.aux) (section/chapter5.aux
+("C:\Users\EMY\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.st
+y"
+File: lstlang1.sty 2019/02/27 1.8b listings language file
+) (main.aux (section/dedication.aux) (section/acknowlegements.aux)
+(section/abstract.aux) (section/chapter1.aux) (section/chapter2.aux)
+(section/chapter3.aux) (section/chapter4.aux) (section/chapter5.aux
 
 LaTeX Warning: Label `instal1' multiply defined.
 
@@ -176,598 +185,3 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
-
-("C:\Program Files\MiKTeX 2.9\tex/context/base\supp-pdf.mkii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count97
-\scratchdimen=\dimen109
-\scratchbox=\box29
-\nofMPsegments=\count98
-\nofMParguments=\count99
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count100
-\MPscratchDim=\dimen110
-\MPnumerator=\count101
-\makeMPintoPDFobject=\count102
-\everyMPtoPDFconversion=\toks18
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)))
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-))))
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-)
-\c@lstlisting=\count103
-<logo-poltekpos.png, id=1, 291.2481pt x 272.217pt>
-File: logo-poltekpos.png Graphic file (type png)
-<use logo-poltekpos.png>
-Package pdftex.def Info: logo-poltekpos.png  used on input line 64.
-(pdftex.def)             Requested size: 91.04881pt x 85.10081pt.
- [1
-
-
-{C:/Users/Dafi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo-polte
-kpos.png>]
-\openout2 = `section/dedication.aux'.
-
-
-(section/dedication.tex [2
-
-
-])
-\openout2 = `section/acknowlegements.aux'.
-
- (section/acknowlegements.tex
-Overfull \hbox (13.5851pt too wide) in paragraph at lines 2--3
-\OT1/cmr/m/n/12 telah mem-berikan rah-mat dan hidayah-Nya se-hingga Buku Pe-do-
-man Tingkat
- []
-
-[3
-
-
-
-])
-\openout2 = `section/abstract.aux'.
-
- (section/abstract.tex [4
-
-
-
-]) (main.toc
-LaTeX Font Info:    Try loading font information for U+msa on input line 2.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 2.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
-
-
-
-])
-\tf@toc=\write3
-\openout3 = `main.toc'.
-
- [2] (main.lof)
-\tf@lof=\write4
-\openout4 = `main.lof'.
-
-
-[3
-
-]
-\openout2 = `section/chapter1.aux'.
-
- (section/chapter1.tex
-Chapter 1.
-(src/1.py)
-<figures/soal1.PNG, id=31, 314.67563pt x 275.52937pt>
-File: figures/soal1.PNG Graphic file (type png)
-<use figures/soal1.PNG>
-Package pdftex.def Info: figures/soal1.PNG  used on input line 7.
-(pdftex.def)             Requested size: 220.27142pt x 192.86923pt.
- [1
-
-
-
- <./figures/soal1.PNG>] (src/2.py)
-<figures/soal2.PNG, id=38, 314.67563pt x 275.52937pt>
-File: figures/soal2.PNG Graphic file (type png)
-<use figures/soal2.PNG>
-Package pdftex.def Info: figures/soal2.PNG  used on input line 17.
-(pdftex.def)             Requested size: 220.27142pt x 192.86923pt.
- (src/3.py)
-<figures/soal3.PNG, id=39, 630.10406pt x 441.14813pt>
-File: figures/soal3.PNG Graphic file (type png)
-<use figures/soal3.PNG>
-Package pdftex.def Info: figures/soal3.PNG  used on input line 26.
-(pdftex.def)             Requested size: 315.05125pt x 220.57352pt.
- [2 <./figures/soal2.PNG>] (src/4.py)
-<figures/soal4.PNG, id=44, 310.15875pt x 274.02374pt>
-File: figures/soal4.PNG Graphic file (type png)
-<use figures/soal4.PNG>
-Package pdftex.def Info: figures/soal4.PNG  used on input line 36.
-(pdftex.def)             Requested size: 155.079pt x 137.01154pt.
- [3 <./figures/soal3.PNG> <./figures/soal4.PNG>] (src/5.py)
-<figures/soal5.PNG, id=50, 359.09157pt x 359.84438pt>
-File: figures/soal5.PNG Graphic file (type png)
-<use figures/soal5.PNG>
-Package pdftex.def Info: figures/soal5.PNG  used on input line 46.
-(pdftex.def)             Requested size: 251.36238pt x 251.88934pt.
-
-(src/6.py)
-<figures/soal6.PNG, id=51, 368.87813pt x 239.39438pt>
-File: figures/soal6.PNG Graphic file (type png)
-<use figures/soal6.PNG>
-Package pdftex.def Info: figures/soal6.PNG  used on input line 56.
-(pdftex.def)             Requested size: 258.21292pt x 167.5749pt.
- [4 <./figures/soal5.PNG>] (src/7.py)
-<figures/soal7.PNG, id=56, 366.61969pt x 115.93312pt>
-File: figures/soal7.PNG Graphic file (type png)
-<use figures/soal7.PNG>
-Package pdftex.def Info: figures/soal7.PNG  used on input line 66.
-(pdftex.def)             Requested size: 256.63202pt x 81.15262pt.
- (src/8.py) [5 <./figures/soal6.PNG> <./figures/soal7.PNG>]
-<figures/soal8.PNG, id=62, 371.13657pt x 178.41656pt>
-File: figures/soal8.PNG Graphic file (type png)
-<use figures/soal8.PNG>
-Package pdftex.def Info: figures/soal8.PNG  used on input line 76.
-(pdftex.def)             Requested size: 259.79381pt x 124.89072pt.
- (src/9.py)
-<figures/soal9.PNG, id=63, 359.84438pt x 119.69719pt>
-File: figures/soal9.PNG Graphic file (type png)
-<use figures/soal9.PNG>
-Package pdftex.def Info: figures/soal9.PNG  used on input line 86.
-(pdftex.def)             Requested size: 251.88934pt x 83.78745pt.
-<figures/soal10.PNG, id=64, 438.8897pt x 385.44pt>
-File: figures/soal10.PNG Graphic file (type png)
-<use figures/soal10.PNG>
-Package pdftex.def Info: figures/soal10.PNG  used on input line 94.
-(pdftex.def)             Requested size: 307.22069pt x 269.80615pt.
-) [6 <./figures/soal8.PNG> <./figures/soal9.PNG>] [7 <./figures/soal10.PNG>]
-\openout2 = `section/chapter2.aux'.
-
- (section/chapter2.tex
-Chapter 2.
-<figures/instal1.jpg, id=75, 324.21124pt x 256.96pt>
-File: figures/instal1.jpg Graphic file (type jpg)
-<use figures/instal1.jpg>
-Package pdftex.def Info: figures/instal1.jpg  used on input line 9.
-(pdftex.def)             Requested size: 162.10522pt x 128.47968pt.
-<figures/instal2.jpg, id=76, 318.18875pt x 253.44687pt>
-File: figures/instal2.jpg Graphic file (type jpg)
-<use figures/instal2.jpg>
-Package pdftex.def Info: figures/instal2.jpg  used on input line 15.
-(pdftex.def)             Requested size: 159.09398pt x 126.72311pt.
-<figures/instal3.jpg, id=77, 319.1925pt x 253.44687pt>
-File: figures/instal3.jpg Graphic file (type jpg)
-<use figures/instal3.jpg>
-Package pdftex.def Info: figures/instal3.jpg  used on input line 21.
-(pdftex.def)             Requested size: 159.59586pt x 126.72311pt.
-<figures/instal4.jpg, id=78, 317.185pt x 254.45062pt>
-File: figures/instal4.jpg Graphic file (type jpg)
-<use figures/instal4.jpg>
-Package pdftex.def Info: figures/instal4.jpg  used on input line 27.
-(pdftex.def)             Requested size: 158.5921pt x 127.22499pt.
-<figures/instal5.jpg, id=79, 318.69063pt x 253.44687pt>
-File: figures/instal5.jpg Graphic file (type jpg)
-<use figures/instal5.jpg>
-Package pdftex.def Info: figures/instal5.jpg  used on input line 33.
-(pdftex.def)             Requested size: 159.34491pt x 126.72311pt.
-<figures/instal6.jpg, id=80, 318.69063pt x 254.45062pt>
-File: figures/instal6.jpg Graphic file (type jpg)
-<use figures/instal6.jpg>
-Package pdftex.def Info: figures/instal6.jpg  used on input line 39.
-(pdftex.def)             Requested size: 159.34491pt x 127.22499pt.
-<figures/instal7.jpg, id=81, 945.5325pt x 507.39563pt>
-File: figures/instal7.jpg Graphic file (type jpg)
-<use figures/instal7.jpg>
-Package pdftex.def Info: figures/instal7.jpg  used on input line 45.
-(pdftex.def)             Requested size: 378.2063pt x 202.95465pt.
-[8
-
-
-
- <./figures/instal1.jpg>] [9 <./figures/instal2.jpg> <./figures/instal3.jpg> <.
-/figures/instal4.jpg> <./figures/instal5.jpg>]) [10 <./figures/instal6.jpg> <./
-figures/instal7.jpg>]
-\openout2 = `section/chapter3.aux'.
-
- (section/chapter3.tex
-Chapter 3.
-<figures/map1.jpg, id=91, 663.47874pt x 204.765pt>
-File: figures/map1.jpg Graphic file (type jpg)
-<use figures/map1.jpg>
-Package pdftex.def Info: figures/map1.jpg  used on input line 8.
-(pdftex.def)             Requested size: 331.73856pt x 102.38223pt.
-(src/file_indo_yaml.py
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 1.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1.
-)
-<figures/map2.jpg, id=92, 695.59875pt x 488.82625pt>
-File: figures/map2.jpg Graphic file (type jpg)
-<use figures/map2.jpg>
-Package pdftex.def Info: figures/map2.jpg  used on input line 19.
-(pdftex.def)             Requested size: 347.79852pt x 244.41252pt.
- (src/kodeinstallproxy.py [11
-
-
-
- <./figures/map1.jpg>])
-<figures/map3.jpg, id=98, 741.77126pt x 183.18437pt>
-File: figures/map3.jpg Graphic file (type jpg)
-<use figures/map3.jpg>
-Package pdftex.def Info: figures/map3.jpg  used on input line 26.
-(pdftex.def)             Requested size: 370.88472pt x 91.59195pt.
-<figures/map4.jpg, id=99, 660.96938pt x 133.49875pt>
-File: figures/map4.jpg Graphic file (type jpg)
-<use figures/map4.jpg>
-Package pdftex.def Info: figures/map4.jpg  used on input line 32.
-(pdftex.def)             Requested size: 330.48387pt x 66.74919pt.
-<figures/map5.jpg, id=100, 599.23875pt x 99.87312pt>
-File: figures/map5.jpg Graphic file (type jpg)
-<use figures/map5.jpg>
-Package pdftex.def Info: figures/map5.jpg  used on input line 38.
-(pdftex.def)             Requested size: 299.61864pt x 49.93643pt.
- [12 <./figures/map2.jpg>]
-<figures/map6.jpg, id=105, 349.80687pt x 122.95938pt>
-File: figures/map6.jpg Graphic file (type jpg)
-<use figures/map6.jpg>
-Package pdftex.def Info: figures/map6.jpg  used on input line 44.
-(pdftex.def)             Requested size: 174.903pt x 61.47952pt.
-<figures/map7.jpg, id=106, 890.32625pt x 486.81876pt>
-File: figures/map7.jpg Graphic file (type jpg)
-<use figures/map7.jpg>
-Package pdftex.def Info: figures/map7.jpg  used on input line 50.
-(pdftex.def)             Requested size: 445.16203pt x 243.40878pt.
-
-Overfull \hbox (11.54204pt too wide) in paragraph at lines 50--52
- [][] 
- []
-
-<figures/map8.jpg, id=107, 668.99937pt x 397.98688pt>
-File: figures/map8.jpg Graphic file (type jpg)
-<use figures/map8.jpg>
-Package pdftex.def Info: figures/map8.jpg  used on input line 56.
-(pdftex.def)             Requested size: 334.49887pt x 198.99295pt.
-<figures/map9.jpg, id=108, 587.19376pt x 333.74687pt>
-File: figures/map9.jpg Graphic file (type jpg)
-<use figures/map9.jpg>
-Package pdftex.def Info: figures/map9.jpg  used on input line 62.
-(pdftex.def)             Requested size: 293.59616pt x 166.87303pt.
-<figures/map10.png, id=109, 662.475pt x 542.025pt>
-File: figures/map10.png Graphic file (type png)
-<use figures/map10.png>
-Package pdftex.def Info: figures/map10.png  used on input line 68.
-(pdftex.def)             Requested size: 331.2367pt x 271.01183pt.
-<figures/map11.jpg, id=110, 451.6875pt x 494.34688pt>
-File: figures/map11.jpg Graphic file (type jpg)
-<use figures/map11.jpg>
-Package pdftex.def Info: figures/map11.jpg  used on input line 74.
-(pdftex.def)             Requested size: 225.84319pt x 247.17284pt.
-
-Overfull \hbox (114.96042pt too wide) in paragraph at lines 71--77
-\OT1/cmr/m/n/12 gan link yang su-dah dibuka di browser tadi.http://127.0.0.1:85
-85/wmts/1.0.0/WMTSCapabilities.xml.
- []
-
-<figures/map12.jpg, id=111, 525.46312pt x 493.845pt>
-File: figures/map12.jpg Graphic file (type jpg)
-<use figures/map12.jpg>
-Package pdftex.def Info: figures/map12.jpg  used on input line 80.
-(pdftex.def)             Requested size: 262.73091pt x 246.92189pt.
-<figures/map13.jpg, id=112, 963.6pt x 511.9125pt>
-File: figures/map13.jpg Graphic file (type jpg)
-<use figures/map13.jpg>
-Package pdftex.def Info: figures/map13.jpg  used on input line 86.
-(pdftex.def)             Requested size: 385.43317pt x 204.76137pt.
-[13 <./figures/map3.jpg> <./figures/map4.jpg> <./figures/map5.jpg> <./figures/m
-ap6.jpg>] [14 <./figures/map7.jpg> <./figures/map8.jpg> <./figures/map9.jpg>]
-[15 <./figures/map10.png> <./figures/map11.jpg>]) [16 <./figures/map12.jpg> <./
-figures/map13.jpg>]
-\openout2 = `section/chapter4.aux'.
-
- (section/chapter4.tex
-Chapter 4.
-<figures/wms1.PNG, id=125, 418.56375pt x 417.05812pt>
-File: figures/wms1.PNG Graphic file (type png)
-<use figures/wms1.PNG>
-Package pdftex.def Info: figures/wms1.PNG  used on input line 15.
-(pdftex.def)             Requested size: 209.28136pt x 208.52855pt.
-<figures/wms2.jpg, id=126, 470.0835pt x 232.578pt>
-File: figures/wms2.jpg Graphic file (type jpg)
-<use figures/wms2.jpg>
-Package pdftex.def Info: figures/wms2.jpg  used on input line 22.
-(pdftex.def)             Requested size: 235.04117pt x 116.28871pt.
-
-Overfull \hbox (414.04637pt too wide) in paragraph at lines 18--25
-\OT1/cmr/m/n/12 bin/mapserv.exe?map=mywms4.map&SERVICE=WMS&REQUEST=GetMap&VERSI
-ON=1.1.1&LAYERS=Denah&SRS=EPSG:4326&BBOX=94.5011475,-
- []
-
-
-Overfull \hbox (5.64496pt too wide) in paragraph at lines 18--25
-\OT1/cmr/m/n/12 11.007385,141.01947,6.076721&FORMAT=PNG&WIDTH=800&HEIGHT=600
- []
-
-[17
-
-
-
- <./figures/wms1.PNG>]
-<figures/wms3.jpg, id=131, 587.19376pt x 333.74687pt>
-File: figures/wms3.jpg Graphic file (type jpg)
-<use figures/wms3.jpg>
-Package pdftex.def Info: figures/wms3.jpg  used on input line 28.
-(pdftex.def)             Requested size: 293.59616pt x 166.87303pt.
-<figures/wms4.png, id=132, 662.475pt x 542.025pt>
-File: figures/wms4.png Graphic file (type png)
-<use figures/wms4.png>
-Package pdftex.def Info: figures/wms4.png  used on input line 34.
-(pdftex.def)             Requested size: 331.2367pt x 271.01183pt.
-
-Overfull \hbox (752.0512pt too wide) in paragraph at lines 37--38
-\OT1/cmr/m/n/12 gan link yang su-dah dibuka di browser tadi http://localhost:82
-/cgi-bin/mapserv.exe?map=mywms4.map&SERVICE=WMS&REQUEST=GetMap&VERSION=1.1.1&LA
-YERS=Denah&SRS=EPSG:4326&BBOX=94.5011475,-
- []
-
-
-Overfull \hbox (5.64496pt too wide) in paragraph at lines 37--38
-\OT1/cmr/m/n/12 11.007385,141.01947,6.076721&FORMAT=PNG&WIDTH=800&HEIGHT=600 
- []
-
-<figures/wms5.jpg, id=133, 188.2305pt x 207.2835pt>
-File: figures/wms5.jpg Graphic file (type jpg)
-<use figures/wms5.jpg>
-Package pdftex.def Info: figures/wms5.jpg  used on input line 41.
-(pdftex.def)             Requested size: 94.115pt x 103.64148pt.
-<figures/wms6.jpg, id=134, 522.95375pt x 492.84125pt>
-File: figures/wms6.jpg Graphic file (type jpg)
-<use figures/wms6.jpg>
-Package pdftex.def Info: figures/wms6.jpg  used on input line 47.
-(pdftex.def)             Requested size: 261.47623pt x 246.42001pt.
-<figures/wms7.jpg, id=135, 963.09813pt x 512.41437pt>
-File: figures/wms7.jpg Graphic file (type jpg)
-<use figures/wms7.jpg>
-Package pdftex.def Info: figures/wms7.jpg  used on input line 53.
-(pdftex.def)             Requested size: 481.54788pt x 256.20656pt.
-
-Overfull \hbox (47.92789pt too wide) in paragraph at lines 53--55
- [][] 
- []
-
-) [18 <./figures/wms2.jpg> <./figures/wms3.jpg>] [19 <./figures/wms4.png> <./fi
-gures/wms5.jpg> <./figures/wms6.jpg>] [20 <./figures/wms7.jpg>]
-\openout2 = `section/chapter5.aux'.
-
-
-(section/chapter5.tex
-Chapter 5.
-File: figures/instal1.jpg Graphic file (type jpg)
-<use figures/instal1.jpg>
-Package pdftex.def Info: figures/instal1.jpg  used on input line 9.
-(pdftex.def)             Requested size: 162.10522pt x 128.47968pt.
-File: figures/instal2.jpg Graphic file (type jpg)
-<use figures/instal2.jpg>
-Package pdftex.def Info: figures/instal2.jpg  used on input line 15.
-(pdftex.def)             Requested size: 159.09398pt x 126.72311pt.
-File: figures/instal3.jpg Graphic file (type jpg)
-<use figures/instal3.jpg>
-Package pdftex.def Info: figures/instal3.jpg  used on input line 21.
-(pdftex.def)             Requested size: 159.59586pt x 126.72311pt.
-File: figures/instal4.jpg Graphic file (type jpg)
-<use figures/instal4.jpg>
-Package pdftex.def Info: figures/instal4.jpg  used on input line 27.
-(pdftex.def)             Requested size: 158.5921pt x 127.22499pt.
-File: figures/instal5.jpg Graphic file (type jpg)
-<use figures/instal5.jpg>
-Package pdftex.def Info: figures/instal5.jpg  used on input line 33.
-(pdftex.def)             Requested size: 159.34491pt x 126.72311pt.
-File: figures/instal6.jpg Graphic file (type jpg)
-<use figures/instal6.jpg>
-Package pdftex.def Info: figures/instal6.jpg  used on input line 39.
-(pdftex.def)             Requested size: 159.34491pt x 127.22499pt.
-File: figures/instal7.jpg Graphic file (type jpg)
-<use figures/instal7.jpg>
-Package pdftex.def Info: figures/instal7.jpg  used on input line 45.
-(pdftex.def)             Requested size: 378.2063pt x 202.95465pt.
-[21
-
-
-
-] [22]) [23]
-\openout2 = `section/chapter6.aux'.
-
- (section/chapter6.tex
-Chapter 6.
-File: figures/map1.jpg Graphic file (type jpg)
-<use figures/map1.jpg>
-Package pdftex.def Info: figures/map1.jpg  used on input line 8.
-(pdftex.def)             Requested size: 331.73856pt x 102.38223pt.
-(src/file_indo_yaml.py)
-File: figures/map2.jpg Graphic file (type jpg)
-<use figures/map2.jpg>
-Package pdftex.def Info: figures/map2.jpg  used on input line 19.
-(pdftex.def)             Requested size: 347.79852pt x 244.41252pt.
- (src/kodeinstallproxy.py [24
-
-
-
-])
-File: figures/map3.jpg Graphic file (type jpg)
-<use figures/map3.jpg>
-Package pdftex.def Info: figures/map3.jpg  used on input line 26.
-(pdftex.def)             Requested size: 370.88472pt x 91.59195pt.
-File: figures/map4.jpg Graphic file (type jpg)
-<use figures/map4.jpg>
-Package pdftex.def Info: figures/map4.jpg  used on input line 32.
-(pdftex.def)             Requested size: 330.48387pt x 66.74919pt.
-File: figures/map5.jpg Graphic file (type jpg)
-<use figures/map5.jpg>
-Package pdftex.def Info: figures/map5.jpg  used on input line 38.
-(pdftex.def)             Requested size: 299.61864pt x 49.93643pt.
- [25]
-File: figures/map6.jpg Graphic file (type jpg)
-<use figures/map6.jpg>
-Package pdftex.def Info: figures/map6.jpg  used on input line 44.
-(pdftex.def)             Requested size: 174.903pt x 61.47952pt.
-File: figures/map7.jpg Graphic file (type jpg)
-<use figures/map7.jpg>
-Package pdftex.def Info: figures/map7.jpg  used on input line 50.
-(pdftex.def)             Requested size: 445.16203pt x 243.40878pt.
-
-Overfull \hbox (11.54204pt too wide) in paragraph at lines 50--52
- [][] 
- []
-
-File: figures/map8.jpg Graphic file (type jpg)
-<use figures/map8.jpg>
-Package pdftex.def Info: figures/map8.jpg  used on input line 56.
-(pdftex.def)             Requested size: 334.49887pt x 198.99295pt.
-File: figures/map9.jpg Graphic file (type jpg)
-<use figures/map9.jpg>
-Package pdftex.def Info: figures/map9.jpg  used on input line 62.
-(pdftex.def)             Requested size: 293.59616pt x 166.87303pt.
-File: figures/map10.png Graphic file (type png)
-<use figures/map10.png>
-Package pdftex.def Info: figures/map10.png  used on input line 68.
-(pdftex.def)             Requested size: 331.2367pt x 271.01183pt.
-File: figures/map11.jpg Graphic file (type jpg)
-<use figures/map11.jpg>
-Package pdftex.def Info: figures/map11.jpg  used on input line 74.
-(pdftex.def)             Requested size: 225.84319pt x 247.17284pt.
-
-Overfull \hbox (114.96042pt too wide) in paragraph at lines 71--77
-\OT1/cmr/m/n/12 gan link yang su-dah dibuka di browser tadi.http://127.0.0.1:85
-85/wmts/1.0.0/WMTSCapabilities.xml.
- []
-
-File: figures/map12.jpg Graphic file (type jpg)
-<use figures/map12.jpg>
-Package pdftex.def Info: figures/map12.jpg  used on input line 80.
-(pdftex.def)             Requested size: 262.73091pt x 246.92189pt.
-File: figures/map13.jpg Graphic file (type jpg)
-<use figures/map13.jpg>
-Package pdftex.def Info: figures/map13.jpg  used on input line 86.
-(pdftex.def)             Requested size: 385.43317pt x 204.76137pt.
-[26] [27] [28]) [29]
-\openout2 = `section/appendix1.aux'.
-
- (section/appendix1.tex
-Appendix A.
-<figures/form1.png, id=174, 534.99875pt x 565.11125pt>
-File: figures/form1.png Graphic file (type png)
-<use figures/form1.png>
-Package pdftex.def Info: figures/form1.png  used on input line 6.
-(pdftex.def)             Requested size: 433.62pt x 458.04802pt.
-<figures/form2.png, id=175, 534.99875pt x 315.1775pt>
-File: figures/form2.png Graphic file (type png)
-<use figures/form2.png>
-Package pdftex.def Info: figures/form2.png  used on input line 13.
-(pdftex.def)             Requested size: 433.62pt x 255.4655pt.
-) [30
-
-
-
-] [31 <./figures/form1.png>] [32 <./figures/form2.png>]
-\openout2 = `section/appendix2.aux'.
-
-
-(section/appendix2.tex
-Appendix B.
-
-Overfull \hbox (4.08055pt too wide) in paragraph at lines 36--37
-[]\OT1/cmr/m/n/12 1. Tidak Mengerti : anda boleh meng-gu-nakan alasan ini jika 
-anda su-dah melakukan
- []
-
-[33
-
-
-
-]) [34] (main.bbl
-
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-) [35
-
-
-] (main.aux (section/dedication.aux) (section/acknowlegements.aux)
-(section/abstract.aux) (section/chapter1.aux) (section/chapter2.aux)
-(section/chapter3.aux) (section/chapter4.aux) (section/chapter5.aux)
-(section/chapter6.aux) (section/appendix1.aux) (section/appendix2.aux))
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
-Here is how much of TeX's memory you used:
- 4095 strings out of 492946
- 57092 string characters out of 3135530
- 333937 words of memory out of 3000000
- 7783 multiletter control sequences out of 15000+200000
- 12923 words of font info for 50 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 41i,8n,47p,457b,1756s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmtt12.pfb>
-Output written on main.pdf (42 pages, 2623711 bytes).
-PDF statistics:
- 225 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 201 words of extra memory for PDF output out of 10000 (max. 10000000)
-
