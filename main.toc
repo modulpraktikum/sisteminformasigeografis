@@ -21,6 +21,9 @@
 \contentsline {chapter}{\numberline {5}Mapserver}{21}% 
 \contentsline {section}{\numberline {5.1}Instalasi Mapserver}{21}% 
 \contentsline {subsection}{\numberline {5.1.1}Langkah-langkah instalasi Mapserver}{21}% 
-\contentsline {chapter}{\numberline {A}Form Penilaian Jurnal}{24}% 
-\contentsline {chapter}{\numberline {B}FAQ}{27}% 
-\contentsline {chapter}{Bibliography}{29}% 
+\contentsline {chapter}{\numberline {6}Mapproxy dan Konfigurasi}{24}% 
+\contentsline {section}{\numberline {6.1}Konfigurasi dan Running Mapproxy}{24}% 
+\contentsline {subsection}{\numberline {6.1.1}Install Mapproxy}{24}% 
+\contentsline {chapter}{\numberline {A}Form Penilaian Jurnal}{30}% 
+\contentsline {chapter}{\numberline {B}FAQ}{33}% 
+\contentsline {chapter}{Bibliography}{35}% 
