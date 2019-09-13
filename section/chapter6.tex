@@ -1,0 +1,92 @@
+\chapter{Mapproxy dan Konfigurasi}
+\section{Konfigurasi dan Running Mapproxy}
+\subsection{Install Mapproxy}
+\begin{enumerate}
+    \item Install MapProxy terlebih dahulu seperti gambar \ref{map1}
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.5]{figures/map1.jpg}
+    \label{map1}
+\end{figure}
+    \item Buat file indo.yaml dan save di
+\lstinputlisting[language=Python, breaklines=true, caption=koding]{src/file_indo_yaml.py}
+    \begin{verbatim}
+        C:\ms4w\Apache\cgi-bin
+    \end{verbatim}
+    Akan tetapi terlebih dahulu edit di bagian map, binary, dan workimg\_dir sesuai dengan direktori penyimpanan indo.yaml seperti gambar \ref{map2}
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.5]{figures/map2.jpg}
+    \label{map2}
+\end{figure}
+    \item Kemudian jalan kan indo.yaml menggunakan command line dengan perintah mapproxy-util serve-develop indo.yaml -b 0.0.0.0:8585, sesuaikan dengan port masing-masing pengguna. Apabila terjadi seperti gambar \ref{map3}
+\lstinputlisting[language=Python, breaklines=true, caption=koding]{src/kodeinstallproxy.py}
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.5]{figures/map3.jpg}
+    \label{map3}
+\end{figure}
+    \item Maka terlebih dahulu harus mengistal pyproj seperti gambar \ref{map4}
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.5]{figures/map4.jpg}
+    \label{map4}
+\end{figure}
+    \item Setelah di install maka hasilnya akan seperti gambar \ref{map5}
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.5]{figures/map5.jpg}
+    \label{map5}
+\end{figure}
+    \item Kemudian coba cek pada browser http://127.0.0.1:8585, jika muncul klik Demo.
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.5]{figures/map6.jpg}
+    \label{map6}
+\end{figure}
+    \item Setelah di klik, pilih WMTS kemudian klik yang png-nya seperti gambar \ref{map7}
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.5]{figures/map7.jpg}
+    \label{map7}
+\end{figure}
+    \item Maka hasilnya akan muncul seperti gambar \ref{map8}
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.5]{figures/map8.jpg}
+    \label{map8}
+\end{figure}
+    \item Kemudian buka QGIS kemudian mengklik Layer Add Layer Add WMS/WMTS Layer. seperti gambar \ref{map9}
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.5]{figures/map9.jpg}
+    \label{map9}
+\end{figure}
+    \item Pilih Layer dan pilih button “New” seperti gambar \ref{map10}
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.5]{figures/map10.png}
+    \label{map10}
+\end{figure}
+    \item Untuk membuat wms yang baru isikan Name dengan “wmts ae” dan URL dengan link yang sudah dibuka di browser tadi.http://127.0.0.1:8585/wmts/1.0.0/WMTSCapabilities.xml. Kemudian pilih OK. seperti pada gambar \ref{map11}
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.5]{figures/map11.jpg}
+    \label{map11}
+\end{figure}
+    \item Klik “Connect” dan pilih tambahkan dengan layer yang sudah terhubung, kemudian pilih Add, seperti gambar \ref{map12}
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.5]{figures/map12.jpg}
+    \label{map12}
+\end{figure}
+    \item Inilah hasil terakhir nya setelah di render pada QGIS yang seharusnya ada gambar map yang sudah di konfigurasikan di indo.yaml, akan tetapi punya saya tidak muncul gambar map.seperti pada gambar \ref{map13}
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[scale=0.4]{figures/map13.jpg}
+    \label{map13}
+\end{figure}
+
+
+\end{enumerate}
+
